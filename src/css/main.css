@@ -54,11 +54,17 @@ body{
 .title1{
     background: lightcoral;
     width: 200px;
-    flex-basis: 130px;
+    flex-basis: 160px;
+    flex-shrink: 2;
 }
 .title2{
     background: lightgreen;
+    flex-basis: 100px;
+    flex-grow: 2;
 }
+
 .title3{
     background: lightskyblue;
+    flex-basis: 50px;
+    flex-grow: 3;
 }
