@@ -1,0 +1,14 @@
+li{
+    color: mediumspringgreen;
+    font-weight:900;
+}
+
+.main-nav li{
+    width: 100px;
+}
+
+.main-nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
