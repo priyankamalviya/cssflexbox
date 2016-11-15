@@ -38,7 +38,17 @@ li{
     padding: 10px;
 }
 
+
+article{
+    background: lightgray;
+    padding:10px;
+    border: 1px solid black;
+    border-radius:5px;
+}
+
+
 body{
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 }
