@@ -49,6 +49,16 @@ article{
 
 body{
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+}
+
+.title1{
+    background: lightcoral;
+    width: 200px;
+    flex-basis: 130px;
+}
+.title2{
+    background: lightgreen;
+}
+.title3{
+    background: lightskyblue;
 }
